@@ -1,0 +1,16 @@
+ /* .accordion-button.collapsed {
+ } */
+
+ h1,
+ h2 {
+     color: dodgerblue !important;
+ }
+
+ .accordion-button {
+     background-color: rgba(143, 199, 255, 0.262);
+     color: #000000;
+ }
+
+ .accordion-button:hover {
+     background-color: #d6d6d6;
+ }
